@@ -168,7 +168,7 @@ Michael Jemmeson <mjemmeson@cpan.org>
 
 # COPYRIGHT
 
-This software is copyright (c) 2013-2024 by Michael Jemmeson.
+This software is copyright (c) 2013-2026 by Michael Jemmeson.
 
 # LICENSE
 
